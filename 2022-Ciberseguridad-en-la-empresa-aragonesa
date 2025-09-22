@@ -1,0 +1,62 @@
+# Indicadores de ciberseguridad en Aragón (2022)
+
+Fuente: INE (2022). Elaboración propia a partir de *La digitalización de las empresas aragonesas y sus efectos en las condiciones de trabajo* (2023), dirigido por María Pilar Latorre Martínez.
+
+---
+
+## Medidas de seguridad por sector (%)
+
+| Sector             | Aragón | España |
+|--------------------|--------|--------|
+| Total              | 88.0   | 89.3   |
+| Industria          | 88.5   | 88.0   |
+| Construcción       | 84.5   | 85.6   |
+| Servicios          | 88.5   | 91.0   |
+| < 10 empleados     | 52.8   | 55.3   |
+
+---
+
+## Formación en seguridad TIC (% de empresas)
+
+| Tipo de formación  | Aragón | España |
+|--------------------|--------|--------|
+| Voluntaria         | 37.4   | 41.6   |
+| Obligatoria        | 16.9   | 20.1   |
+
+---
+
+## Empresas con incidentes por sector (%)
+
+| Sector        | Aragón | España |
+|---------------|--------|--------|
+| Total         | 15.7   | 16.9   |
+| Industria     | 12.7   | 15.8   |
+| Construcción  | 10.4   | 12.7   |
+| Servicios     | 19.1   | 18.6   |
+
+---
+
+## Indisponibilidad de servicios · Causas (%)
+
+| Causa          | Aragón | España |
+|----------------|--------|--------|
+| Fallos HW/SW   | 81.4   | 75.1   |
+| Ataque exterior| 18.4   | 23.2   |
+
+---
+
+## Destrucción / corrupción de datos · Causas (%)
+
+| Causa          | Aragón | España |
+|----------------|--------|--------|
+| Fallos HW/SW   | 18.9   | 21.5   |
+| Ataque exterior| 10.9   | 17.3   |
+
+---
+
+## Divulgación de datos (% de empresas)
+
+| Tipo de incidente        | Aragón | España |
+|--------------------------|--------|--------|
+| Por empleados/as         | 0.2    | 3.8    |
+| Por intrusiones externas | 2.4    | 8.4    |
