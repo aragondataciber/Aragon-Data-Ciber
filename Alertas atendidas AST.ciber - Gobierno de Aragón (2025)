@@ -1,50 +1,28 @@
 # Alertas atendidas AST.ciber - Gobierno de Aragón (2025)
 
-AST.ciber (Gobierno de Aragón) monitorizó 24.002 dispositivos desde las herramientas de gestión de ciberseguridad; se atendieron 389.580 alertas de seguridad, 18.583 de ellas de criticidad alta; 716 incidentes de seguridad fueron reportados al Centro Criptológico Nacional a través de la herramienta LUCIA.  
-
-Fuente: **Memoria Aragonesa de Servicios Telemáticos 2024**
+AST.ciber (Gobierno de Aragón) monitorizó 24.002 dispositivos desde las herramientas de gestión de ciberseguridad; se atendieron 389.580 alertas de seguridad, 18.583 de ellas de criticidad alta; 716 incidentes de seguridad fueron reportados al Centro Criptológico Nacional a través de la herramienta LUCIA.
 
 ---
 
-## Código HTML
+## Resumen de indicadores
 
-```html
-<div class="ac-row" id="astciber-2024">
-  <!-- Card DONUT -->
-  <div class="ac-card">
-    <div class="ac-card-hd">
-      <div class="ac-legend">
-        <span><i style="background:#ef4444"></i>Alertas alta</span>
-        <span><i style="background:#94a3b8"></i>Resto alertas</span>
-      </div>
-    </div>
+| Indicador                               | Valor                         |
+|-----------------------------------------|-------------------------------|
+| Dispositivos monitorizados              | 24.002                        |
+| Alertas atendidas                       | 389.580 (≈1.067 por día)      |
+| Alertas de alta criticidad              | 18.583                        |
+| Incidentes reportados al CCN (LUCIA)    | 716                           |
 
-    <div class="ac-donut">
-      <canvas id="chart-astciber" height="240"></canvas>
-    </div>
+---
 
-    <p class="ac-src" style="margin-top:10px">
-      Fuente: Memoria Aragonesa de Servicios Telemáticos 2024.
-    </p>
-  </div>
+## Distribución de alertas
 
-  <!-- Lateral: 4 mini-cards -->
-  <div class="ac-mini-grid">
-    <div class="ac-mini-card">
-      <span>Dispositivos monitorizados</span>
-      <strong>24.002</strong>
-    </div>
-    <div class="ac-mini-card">
-      <span>Alertas atendidas</span>
-      <strong>389.580 (1.067 por día)</strong>
-    </div>
-    <div class="ac-mini-card ac-accent-red">
-      <span>Alertas alta criticidad</span>
-      <strong>18.583</strong>
-    </div>
-    <div class="ac-mini-card">
-      <span>Incidentes reportados al CCN (LUCIA)</span>
-      <strong>716</strong>
-    </div>
-  </div>
-</div>
+| Tipo de alerta        | Número  | Porcentaje sobre total |
+|-----------------------|---------|-------------------------|
+| Alta criticidad       | 18.583  | 4,8 %                  |
+| Resto de alertas      | 370.997 | 95,2 %                 |
+| **Total**             | 389.580 | 100 %                  |
+
+---
+
+Fuente: *Memoria Aragonesa de Servicios Telemáticos 2024*
